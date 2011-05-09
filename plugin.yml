@@ -1,0 +1,10 @@
+name: TreeDrops
+main: com.github.The414s.TreeDrops.TreeDrops
+version: 1.0
+commands:
+  treedrops:
+    description: Reload the ChocolateFever configuration settings. Now supports permissions.
+    aliases: [td]
+    usage: |
+           Incorrect syntax. Type /treedrops|td to reload the configuration.
+    permission: TreeDrops.admin.reload
