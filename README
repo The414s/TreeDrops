@@ -1,0 +1,73 @@
+_________________________________________________________________
+                          TreeDrops
+________________________________________________________________
+ _____________________
+| 1.Introduction      |
+| 2.Dependencies      |
+| 3.Compatibility     |
+| 4.Usage             |
+| 5.Bugs and Features |
+| 6.Changelog         |
+| 7.Copyright         |
+| 8.Download          |
+|_____________________|
+________________________________________________________________
+1.Introduction
+_________________________________________________________________
+
+Every wanted you trees to drop Apples and GoldenApples? This is
+the plugin for you! Customize the chance that leaves will drop:
+Apples,Golden Apples and Cocoa Beans!
+________________________________________________________________
+2.Dependencies
+________________________________________________________________
+
+The414sUtilityLibrary 1.0.jar 
+>>github.com/downloads/The414s/The414sUtilityLibrary/The414sUtilityLibrary%201.0.jar
+________________________________________________________________
+3.Compatibility     
+________________________________________________________________
+
+
+________________________________________________________________
+4.Usage
+________________________________________________________________
+
+Simply drop the plugin into your plugins folder and reload your
+server. It will generate its own folder and config. To edit the
+config simply open with a text editor and chage the values.
+
+________________________________________________________________
+5.Bugs and Features
+________________________________________________________________
+
+Please report all bugs here:
+ http://github.com/The414s/TreeDrops/issues
+
+________________________________________________________________
+6.Changelog
+________________________________________________________________
+
+1.0 - blah
+________________________________________________________________
+7.Copyright
+________________________________________________________________
+
+                      <TreeDrops - Gotta drop em apples>
+            Copyright (C) <2011>  <The414s>
+
+This program is free software:
+you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or any later version.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program. If not,see <www.gnu.org/licenses/> .
+
+________________________________________________________________
+7.Download
+________________________________________________________________
+
+1.0 - http://github.com/downloads/The414s/TreeDrops/TreeDrops%201.0.jar
