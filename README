@@ -28,7 +28,6 @@ ________________________________________________________________
 3.Compatibility     
 ________________________________________________________________
 
-
 ________________________________________________________________
 4.Usage
 ________________________________________________________________
@@ -36,6 +35,12 @@ ________________________________________________________________
 Simply drop the plugin into your plugins folder and reload your
 server. It will generate its own folder and config. To edit the
 config simply open with a text editor and chage the values.
+
+permissions:
+TreeDrops.Apples
+TreeDrops.GoldenApples
+TreeDrops.CocoaBeans
+TreeDrops.admin.reload
 
 ________________________________________________________________
 5.Bugs and Features
